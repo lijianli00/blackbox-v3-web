@@ -1,0 +1,20 @@
+{
+  "name": "blackbox-v3-ui",
+  "version": "1.0.2",
+  "description": "",
+  "main": "es/index.js",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "es"
+  ],
+  "keywords": [
+    "blackbox-ui",
+    "vue3组件库"
+  ],
+  "author": "lyj",
+  "license": "ISC",
+  "dependencies": {}
+}

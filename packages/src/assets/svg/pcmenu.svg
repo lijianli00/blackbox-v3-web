@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="PC&#x7AEF;" transform="translate(-609.5 -63.09)">
+    <rect id="&#x77E9;&#x5F62;_15274" width="20" height="20" transform="translate(609.5 63.09)" fill="none"></rect>
+    <g id="&#x7EC4;_12112">
+      <path id="&#x77E9;&#x5F62;_15268_-_&#x8F6E;&#x5ED3;" d="M2,1A1,1,0,0,0,1,2v8a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H15a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(611 66)" fill="#1b5ec9"></path>
+      <path id="&#x8DEF;&#x5F84;_10776" d="M-12055.932-21449.82h-8a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h8a.5.5,0,0,1,.5.5A.5.5,0,0,1-12055.932-21449.82Z" transform="translate(12679.432 21530)" fill="#1b5ec9"></path>
+      <path id="&#x8DEF;&#x5F84;_10780" d="M-12062.48-21449.82h-1.451a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h1.451a.5.5,0,0,1,.5.5A.5.5,0,0,1-12062.48-21449.82Z" transform="translate(-20830.82 12141.68) rotate(90)" fill="#1b5ec9"></path>
+      <rect id="&#x77E9;&#x5F62;_15272" width="13" height="3" rx="1" transform="translate(613 72)" fill="#1b5ec9" opacity="0.2"></rect>
+      <rect id="&#x77E9;&#x5F62;_15273" width="6" height="3" rx="1" transform="translate(613 68)" fill="#1b5ec9" opacity="0.2"></rect>
+    </g>
+  </g>
+</svg>
