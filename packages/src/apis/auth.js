@@ -4,7 +4,7 @@ import { request } from '@/store'
  * 认证鉴权
  */
 export const auth = {
-  login: (params, config) => request.post('/login', params, config),
+  login: (params, config) => request.post('/oauth/login', params, config),
   logout: (params) => request.post('/logout', params),
   captcha: (params) => request.get('/auth/captcha', params),
   getUser: (params) => request.post('/oauth/getUser', params),
